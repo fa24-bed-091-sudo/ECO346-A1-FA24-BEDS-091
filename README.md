@@ -1,5 +1,5 @@
-# Name : Ahmad Ali
-# ECO346-A1-FA24-BEDS-083 — Assignment 1, Fall 2026 (Section A)
+# Name : Muhammad Suleman Afzal
+# ECO346-A1-FA24-BEDS-091 — Assignment 1, Fall 2026 (Section A)
 
 **Name / Reg. no.:** _<your name>_ / FA24-BEDS-0XX  
 **Variant:** 3 → **Sindh urban** (`prov_code == 3`, `urban_rural == 2`)  
