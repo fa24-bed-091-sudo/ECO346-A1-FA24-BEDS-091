@@ -1,0 +1,5 @@
+Weighted mean, 25-29: Rs 303,154
+Weighted mean, 45-49: Rs 431,697
+Highest weighted-mean band: 55-59 (Rs 542,400)
+Thin bands (n<30): none
+Points outside axis range: 2
