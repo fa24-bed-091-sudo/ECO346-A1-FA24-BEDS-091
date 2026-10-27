@@ -1,7 +1,7 @@
 # Name : Muhammad Suleman Afzal
 # ECO346-A1-FA24-BEDS-091 — Assignment 1, Fall 2026 (Section A)
 
-**Name / Reg. no.:** _<your name>_ / FA24-BEDS-0XX  
+
 **Variant:** 3 → **Sindh urban** (`prov_code == 3`, `urban_rural == 2`)  
 **Data:** PSLM 2019–20 person + household subset (`data/`). Earners = persons aged 15–64 with `earn_annual > 0`, weighted by `hhweight`.
 
